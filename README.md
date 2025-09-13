@@ -16,4 +16,4 @@ A simple **Java-based Library Management System** to manage books and members. S
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system-java.git
+   git clone https://github.com/sneha5476/library-management-system-java.git
